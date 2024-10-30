@@ -1,0 +1,27 @@
+{
+"name": "my-website-devcontainer"
+"image": "mcr.microsoft.com/devcontainers/universal:2",
+"features": {
+	"gher. io/devcontainers/features/aws-cli:1": {
+		"version": "latest"
+},
+	"ghcr.io/joedmck/devcontainer-features/wrangler:1": {
+
+},
+	"ghcr.io/wxw-matt/devcontainer-features/command_runner:0": {
+		"version": "common1", "common2", "common3"
+
+},
+	"ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {
+		"version": "script1", "script2", "script3"
+
+},
+	"gher. io/eliises/devcontainer-features/devcontainers-cli:1": {
+		"version": "latest"
+		"nodeVersion": "latest"
+
+},
+	"gher. io/devcontainers/features/sshd:1" : {
+			"verion"; "latest"
+
+],
